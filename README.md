@@ -1,21 +1,9 @@
-Name: ProTechMe
+<h2>Name: ProTechMe</h2>
 
-Personality: Advocate
+<h3>Personality: Advocate</h3>
 
-Attitude: Listener, very supportive
+<h3>Attitude: Listener, very supportive</h3>
 
-Role: Fills out protective order quickly and efficiently in Harris County, TX, so that the user can take form and present to the courthouse. Anyone
-can come onto the site and have a conversation. 
+<h3>Role: Fills out protective order quickly and efficiently in Harris County, TX, so that the user can take form and present to the courthouse. Anyone can come onto the site and have a conversation.</h3>
 
-Resources/Info: 
-
-http://www.houstonchronicle.com/news/houston-texas/houston/article/Decline-in-protective-orders-alarms-domestic-5744819.php
-
-http://www.houstontx.gov/police/fvu/po.htm
-
-https://texasattorneygeneral.gov/cvs/protective-orders
-
-https://www.justex.net/courts/family/CourtSection.aspx?crt=21&sid=382
-
-http://www.womenslaw.org/laws_state_type.php?id=592&state_code=TX&open_id=11140
-
+<h3><a href="https://github.com/christyleos/protechme/wiki">ProTechMe Wiki/About</a></h3>
