@@ -16,12 +16,16 @@ We took the questions from the Texas Attorney General’s [Protective Order Kit]
 
 It helped us to better understand the flow of  questions and answers and determine in what order they should fall. 
 
-We created the chabot using [motion.ai](https://www.motion.ai/), which lacks several of problems of various others (no AIML required, no dependence on Facebook, deployable to the web but not public in a way that would endanger user privacy by default, free to start, plays nice with JavaScript, very flexible).
+We created the chatbot using [motion.ai](https://www.motion.ai/), which lacks several of problems of various others (no AIML required, no dependence on Facebook, deployable to the web but not public in a way that would endanger user privacy by default, free to start, plays nice with JavaScript, very flexible).
 
 <b>[DEMO HERE](https://techforjustice.github.io/protechme/)</b>
 
 <h2>When will the chatbot be ready for the public?</h2>
-- Complete branching in motion.ai 
-- Make it so a pdf can be formed with the responses, and then emailed to the user so they can take to their lawyer or DA office (or to their lawyer/DA office directly).
+- We need to complete branching in motion.ai 
+- We also need to make it so a pdf can be formed with the responses, and then emailed to the user so they can take to their lawyer or DA office (or to their lawyer/DA office directly).
+
+<h2>I want to help, where do I start?</h2>
+- Take a look at our [issues list](https://github.com/TechForJustice/protechme/issues),choose a task and run with it!
+- Or create an [issue](https://github.com/TechForJustice/protechme/issues/new), ask your question/let us know how you want to help, and we'll get back to you as soon as possible!
 
 <h3><a href="https://github.com/TechForJustice/protechme/wiki">More Info</a></h3>
