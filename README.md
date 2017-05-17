@@ -26,6 +26,7 @@ We created the chatbot using [motion.ai](https://www.motion.ai/), which lacks se
 
 <h2>I want to help, where do I start?</h2>
 - Take a look at our [issues list](https://github.com/TechForJustice/protechme/issues),choose a task and run with it!
+
 - Or create an [issue](https://github.com/TechForJustice/protechme/issues/new), ask your question/let us know how you want to help, and we'll get back to you as soon as possible!
 
 <h3><a href="https://github.com/TechForJustice/protechme/wiki">More Info</a></h3>
