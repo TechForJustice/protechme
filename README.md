@@ -21,10 +21,13 @@ We created the chatbot using [motion.ai](https://www.motion.ai/), which lacks se
 <b>[DEMO HERE](https://techforjustice.github.io/protechme/)</b>
 
 <h2>When will the chatbot be ready for the public?</h2>
+
 - We need to complete branching in motion.ai 
+
 - We also need to make it so a pdf can be formed with the responses, and then emailed to the user so they can take to their lawyer or DA office (or to their lawyer/DA office directly).
 
 <h2>I want to help, where do I start?</h2>
+
 - Take a look at our [issues list](https://github.com/TechForJustice/protechme/issues),choose a task and run with it!
 
 - Or create an [issue](https://github.com/TechForJustice/protechme/issues/new), ask your question/let us know how you want to help, and we'll get back to you as soon as possible!
